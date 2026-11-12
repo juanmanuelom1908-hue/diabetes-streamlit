@@ -4,7 +4,7 @@ Aplicación web que integra el modelo de clasificación del proyecto de Minería
 
 - **Integrante:** Juan Ortega
 - **Curso:** Minería de Datos, Universidad de la Costa (CUC)
-- **Aplicación:** <PEGAR_URL_STREAMLIT>
+- **Aplicación:** https://diabetes-app-7vs5tqiyuu2gfmbkyaby4w.streamlit.app/
 - **Datos:** Pima Indians Diabetes Database (NIDDK; Smith et al., 1988), 768 registros.
 
 > **Prototipo académico.** No sustituye el diagnóstico ni la decisión de un profesional de la salud.
